@@ -1,3 +1,5 @@
+2019.12.20 클라우드 세미나
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
